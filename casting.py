@@ -11,6 +11,7 @@ print(x)
 age = 18
 height = 172
 
+
 sum = age + height
 
 print(float(sum))
